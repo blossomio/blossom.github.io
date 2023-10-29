@@ -3,7 +3,7 @@ const container = document.getElementById('image-container');
 const startButton = document.getElementById('start-button');
 const stopButton = document.getElementById('stop-button');
 const timerInput = document.getElementById('timer-input');
-const countdownDisplay = document.getElementById('countdown');
+const countdownDisplay = document.getElementById('countdown1');
 
 let timer; // A variable to hold the timer
 let remainingTime = 0; // Track the remaining time in seconds
