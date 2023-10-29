@@ -34,7 +34,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: flex-end; /* Start at the bottom middle */
-    height: 14vh; /* Adjust the height for the image container */
+    height: 21vh; /* Adjust the height for the image container */
 }
 
 #scaling-image {
@@ -75,7 +75,7 @@ button:hover {
     background-color: #71DA9E; /* Darker green on hover */
 }
 
-#countdown {
+#countdown1 {
     color: #71DA9E; /* Green text color */
     font-weight: bold;
     font-size: 1000;
